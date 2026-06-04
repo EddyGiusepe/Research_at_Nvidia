@@ -1,0 +1,20 @@
+[project]
+name = "project-nvidia"
+version = "0.1.0"
+description = "Estudar os modelos da Nvidia e aplicar a problemas do dia dia"
+readme = "README.md"
+authors = [
+    { name = "EddyGiusepe", email = "eddychirinos.unac@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = [
+]
+
+[dependency-groups]
+dev = [
+    "black>=26.5.1",
+    "ruff>=0.15.16",
+]
+
+[tool.ruff]
+extend = "ruff.toml"
