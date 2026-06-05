@@ -23,4 +23,6 @@ Link de estudo:
 
 * [Hugging Face: Locate Anything 3B](https://huggingface.co/nvidia/LocateAnything-3B)
 
+* [I tried Nvidia LocateAnything 3B](https://medium.com/@hitorunajp/i-tried-nvidia-locateanything-3b-7a2b86b511a0)
+
 Thank God!
