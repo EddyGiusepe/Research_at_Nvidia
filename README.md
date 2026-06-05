@@ -19,6 +19,8 @@ A Nvidia é uma empresa de tecnologia dos Estados Unidos especializada em chips 
 
 
 
+Link de estudo:
 
+* [Hugging Face: Locate Anything 3B](https://huggingface.co/nvidia/LocateAnything-3B)
 
 Thank God!
